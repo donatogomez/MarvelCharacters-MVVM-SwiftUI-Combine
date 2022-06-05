@@ -25,7 +25,7 @@ Utiliza la arquitectura CLEAN + el **patrón de arquitectura**  **MVVM**.
 
 ## Mockups
 <div align="center">
-<img src="https://github.com/donatogomez/MarvelCharacters-MVVM-SwiftUI-Combine/blob/main/mockups/loadingview.png" alt="drawing" width="250"/> <img src="https://github.com/donatogomez/MarvelCharacters-MVVM-SwiftUI-Combine/blob/main/mockups/mainview.png" alt="drawing" width="250"/> <img src="https://github.com/donatogomez/MarvelCharacters-MVVM-SwiftUI-Combine/blob/main/mockups/detailview.png" alt="drawing" width="250"/>
+<img src="https://github.com/donatogomez/MarvelCharacters-MVVM-SwiftUI-Combine/blob/main/Mockups/loadingview.png" alt="drawing" width="250"/> <img src="https://github.com/donatogomez/MarvelCharacters-MVVM-SwiftUI-Combine/blob/main/Mockups/mainview.png" alt="drawing" width="250"/> <img src="https://github.com/donatogomez/MarvelCharacters-MVVM-SwiftUI-Combine/blob/main/Mockups/detailview.png" alt="drawing" width="250"/>
 </div>
 
 ---
